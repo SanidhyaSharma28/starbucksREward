@@ -1,7 +1,7 @@
 #backgroundPic{
     
     font-family: Arial, sans-serif;
-    background-image: url("public/utilities/bg pic.jpg");
+    background-image: url("/utilities/bg pic.jpg");
     height: 750px;
     object-fit: cover;
     background-size: cover;

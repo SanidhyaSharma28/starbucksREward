@@ -13,14 +13,14 @@ export default function Section5() {
             <p>pay as you go </p>
         </div>
         <div style={{display:"flex",justifyContent:"space-between",flex:1,marginLeft:"10px"}}>
-            <img style={{height:"120px"}} src="public\utilities\img1.PNG" alt="scanner" />
+            <img style={{height:"120px"}} src="\utilities\img1.PNG" alt="scanner" />
             <div>
                 <h3>Scan and pay separately</h3>
                 <p>Use cash or credit/debit card at the register</p>
             </div>
         </div>
         <div style={{display:"flex",justifyContent:"space-between",flex:1,marginLeft:"90px"}}>
-            <img style={{height:"120px"}} src="public\utilities\img2.PNG" alt="save" />
+            <img style={{height:"120px"}} src="\utilities\img2.PNG" alt="save" />
             <div>
                 <h3>Save payment in the app</h3>
                 <p>Check-out faster by saving a credit/debit card or PayPal to your account. You'll be able to order ahead or scan and pay at the register in one step</p>
@@ -36,14 +36,14 @@ export default function Section5() {
             <p>Add funds in the app </p>
         </div>
         <div style={{display:"flex",justifyContent:"space-between",flex:1,marginLeft:"10px"}}>
-            <img style={{marginTop:"10px",height:"80px",width:"100px"}} src="public\utilities\img3.PNG" alt="scanner" />
+            <img style={{marginTop:"10px",height:"80px",width:"100px"}} src="\utilities\img3.PNG" alt="scanner" />
             <div>
                 <h3>Preload</h3>
                 <p>To save time and earn tar twiceas fast, add money to your digital Starbucks Card using any  payment option.Scan and pay in one step or order ahead in the app.</p>
             </div>
         </div>
         <div style={{display:"flex",justifyContent:"space-between",flex:1,marginLeft:"90px"}}>
-            <img style={{marginTop:"10px",height:"80px",width:"100px"}} src="public\utilities\img4.PNG" alt="save" />
+            <img style={{marginTop:"10px",height:"80px",width:"100px"}} src="\utilities\img4.PNG" alt="save" />
             <div>
                 <h3>Register your gift card</h3>
                 <p>Then use it to pay through the app. You can even consolidate balances from multiple cards in one place </p>
@@ -60,7 +60,7 @@ export default function Section5() {
         </div>
         <a href=""></a>
         <div style={{display:"flex",justifyContent:"space-between",flex:1,marginLeft:"10px"}}>
-            <img style={{marginTop:"10px",height:"90px",width:"110px"}} src="public\utilities\img5.PNG" alt="scanner" />
+            <img style={{marginTop:"10px",height:"90px",width:"110px"}} src="\utilities\img5.PNG" alt="scanner" />
             <div>
                 <h3>Earn stars even faster</h3>
                 <p>Earn Stars on all purchases you make with our <a href="#"> credit card </a> in and outside of Starbucks. Earn 1 Star per $1 when you digitally preload your Starbucks Card with your Starbucks Rewards Visa Card, and earn 2 Stars per $1 when you pay with that preloaded Starbucks Card.</p>

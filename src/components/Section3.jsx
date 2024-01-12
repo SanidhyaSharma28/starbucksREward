@@ -43,7 +43,7 @@ export default function Section3() {
       </div>
 
       <div id="25*"  className="tabcontent">
-        <img style={{marginLeft:"450px",width:"200px",height:"200px"}} src="public\utilities\coffs.PNG" alt="" />
+        <img style={{marginLeft:"450px",width:"200px",height:"200px"}} src="\utilities\coffs.PNG" alt="" />
         <div >
         <h3>Customize your drink</h3>
         <p style={{padding:"0px 300px "}}>Make your drink just right with an extra espresso shot,dairy substitute or a dash of your favorite syrup.</p>
@@ -51,14 +51,14 @@ export default function Section3() {
       </div>
 
       <div id="50*" className="tabcontent">
-        <img src="public\utilities\starbucks-summer-menu.jpg" style={{marginLeft:"450px",width:"230px",height:"170px"}}  alt="" />
+        <img src="\utilities\starbucks-summer-menu.jpg" style={{marginLeft:"450px",width:"230px",height:"170px"}}  alt="" />
         <div>
         <h3>Free customization options</h3>
         <p style={{padding:"0px 300px "}}> add extras or customizations to your beverage</p>
         </div>
       </div>
       <div id="150*" className="tabcontent">
-        <img src="public\utilities\bhg-starbucks-fall-thursdays-7967474-31f54ac21bf44307925d21560b64b856.jpg" style={{marginLeft:"450px",width:"200px",height:"170px"}}  alt="" />
+        <img src="\utilities\bhg-starbucks-fall-thursdays-7967474-31f54ac21bf44307925d21560b64b856.jpg" style={{marginLeft:"450px",width:"200px",height:"170px"}}  alt="" />
         <div>
         <h3>Free drink or food item</h3>
         <p style={{padding:"0px 300px "}}>Redeem your stars for a free standard menu item.</p>
@@ -66,14 +66,14 @@ export default function Section3() {
       </div>
 
       <div id="200*" className="tabcontent">
-        <img src="public\utilities\starbucks-marketing-strategy3.jpg" style={{marginLeft:"450px",width:"200px",height:"170px"}}  alt="" />
+        <img src="\utilities\starbucks-marketing-strategy3.jpg" style={{marginLeft:"450px",width:"200px",height:"170px"}}  alt="" />
         <div>
         <h3>Free premium item.</h3>
         <p style={{padding:"0px 300px "}}> Reedem to choose a more premium or handcrafted item.</p>
         </div>
       </div>
       <div id="400*" className="tabcontent">
-        <img src="public\utilities\Starbucks®-Essentials10.webp" style={{marginLeft:"450px",width:"200px",height:"200px"}}  alt="" />
+        <img src="\utilities\Starbucks®-Essentials10.webp" style={{marginLeft:"450px",width:"200px",height:"200px"}}  alt="" />
         <div>
         <h3>Free merchandise or packaged coffee</h3>
         <p style={{padding:"0px 300px "}}>Get rewards such as free merchandise or packaged coffee to take home</p>
