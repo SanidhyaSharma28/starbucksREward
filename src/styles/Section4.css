@@ -1,0 +1,18 @@
+.centralise{
+    text-align: center;
+}
+
+.threePics{
+    display: flex;
+    justify-content: space-between;
+}
+
+#Sec4{
+    font-family: Arial, sans-serif;
+
+}
+
+#lowerHead{
+    margin-top: -10px;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,30 @@
+#backgroundPic{
+    
+    font-family: Arial, sans-serif;
+    background-image: url("src/utilities/bg pic.jpg");
+    height: 750px;
+    object-fit: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+#lower{
+    margin-top: -25px;
+}
+
+#Joinnow{
+    background-color: rgb(13, 172, 245);
+    color: white;
+    border-radius: 15px;
+    padding: 4px 15px;
+    margin-bottom: 5px;
+}
+
+#floater{
+    font-size: large;
+    
+    position: absolute;
+    top: 30%;
+    left: 20px;
+}

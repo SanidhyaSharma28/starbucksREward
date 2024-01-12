@@ -1,0 +1,13 @@
+#Sec5{
+    background-color: 
+    #F1F0EC;
+    font-family: Arial, sans-serif;
+
+}
+
+#sec5container{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}

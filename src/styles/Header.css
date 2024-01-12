@@ -1,0 +1,53 @@
+#logo{
+    width: 40px;
+    height: 40px;
+}
+
+#flexAdd{
+  display: flex;
+  justify-content: space-between;
+}
+
+.switcher button.active{
+  border-bottom: 3px solid #008248;
+
+}
+
+.switcher button {
+  font-family: Arial, sans-serif;
+  margin: 0px 10px;
+  background-color: inherit;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 20px;
+}
+
+#labeller{
+  padding-left: 45px;
+  padding-top: 13px;
+  color:white;
+  background-color:#1e3932;
+  height:30px
+}
+
+.sticky-header {
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    font-weight:bolder;
+    position: sticky;
+    top: 0;
+    background-color: white; /* Add your background color */
+    z-index: 1000; /* Adjust the z-index as needed */
+  }
+
+  .topButton{
+        border-radius: 15px;
+        padding: 4px 15px;
+        margin-bottom: 5px;
+  }
+
+  #Findlocation{
+    width: 20px;
+    height: 20px;
+  }
