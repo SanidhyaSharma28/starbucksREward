@@ -30,13 +30,13 @@ export default function Header() {
         <div id='flexAdd'>
 
         <div className='switcher' style={{display:"flex",justifyContent:"space-between",alignItems:"center"}}>
-            <img id="logo" style={{margin:"10px"}} src="src\utilities\starbucks-logo-png.png" alt="starbuck's logo" />
+            <img id="logo" style={{margin:"10px"}} src="public\utilities\starbucks-logo-png.png" alt="starbuck's logo" />
             <button className='switcherLinks' onClick={(e)=>Shower(e,"MENU")} href="#" style={{margin:"0px 10px",textDecoration:"none",color:"black"}}>MENU</button>
             <button id='defaultOpen1' className='switcherLinks' onClick={(e)=>Shower(e,"REWARDS")} href="#" style={{margin:"0px 10px",textDecoration:"none",color:"black"}}>REWARDS</button>
             <button className='switcherLinks' onClick={(e)=>Shower(e,"GIFT CARDS")} href="#" style={{margin:"0px 10px",textDecoration:"none",color:"black"}}>GIFT CARDS</button>
         </div>
         <div style={{display:"flex",alignItems:"center"}} >
-            <img href="#" id='Findlocation' style={{marginRight:"0px"}} src="src\utilities\asdadaczc.png" alt="FIND A STORE" />
+            <img href="#" id='Findlocation' style={{marginRight:"0px"}} src="public\utilities\asdadaczc.png" alt="FIND A STORE" />
             <span style={{fontWeight:"normal",cursor:"pointer"}} >Find a store</span>
             <button className='topButton'  style={{margin:"10px",backgroundColor:"white"}}>Sign in</button>
             <button className='topButton'  style={{margin:"10px",color:"white",backgroundColor:"black"}}>Join now</button>
